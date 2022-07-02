@@ -18,5 +18,5 @@
 - [Centos下安装Git](/linux-tutorial/Centos下安装Git.md)
 - [从零开始搭建git服务器](/linux-tutorial/从零开始搭建git服务器.md)
 - [Linux基础](/linux-tutorial/Linux基础.md)
-- [Vim常用命令](/linux-tutorial/Vim命令详解.md)
+- [玩转vim 从放弃到爱不释手(/linux-tutorial/玩转vim 从放弃到爱不释手.md)
 
